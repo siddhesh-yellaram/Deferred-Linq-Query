@@ -1,0 +1,7 @@
+D:\test\.NET\DefferedLinqQuery\bin\Debug\DefferedLinqQuery.exe.config
+D:\test\.NET\DefferedLinqQuery\bin\Debug\DefferedLinqQuery.exe
+D:\test\.NET\DefferedLinqQuery\bin\Debug\DefferedLinqQuery.pdb
+D:\test\.NET\DefferedLinqQuery\obj\Debug\DefferedLinqQuery.csproj.AssemblyReference.cache
+D:\test\.NET\DefferedLinqQuery\obj\Debug\DefferedLinqQuery.csproj.CoreCompileInputs.cache
+D:\test\.NET\DefferedLinqQuery\obj\Debug\DefferedLinqQuery.exe
+D:\test\.NET\DefferedLinqQuery\obj\Debug\DefferedLinqQuery.pdb
